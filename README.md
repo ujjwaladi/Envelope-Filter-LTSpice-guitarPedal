@@ -10,6 +10,10 @@ You can listen to the actual input and output of the LTSpice transient simulatio
 * 🎸 **[Input Audio: filter_in(Vin).wav](filter_in(Vin).wav)** - The raw, unprocessed guitar track.
 * 🎛️ **[Output Audio: filter_out(Vout).wav](filter_out(Vout).wav)** - The simulated output, demonstrating the dynamic filter sweep.
 
+### Transient Output Waveform
+*(The visual representation of the filter's dynamic envelope response)*
+![Output Waveform](outputWaveform.png)
+
 ---
 
 ## 🔬 Circuit Architecture Deep Dive
