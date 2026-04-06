@@ -7,8 +7,8 @@ This repository contains the complete circuit design and LTSpice simulation file
 
 ## 🎧 Audio Simulation Results
 You can listen to the actual input and output of the LTSpice transient simulation by clicking the files below (GitHub will open a native audio player):
-* 🎸 **[Input Audio: funkSample.wav](filter_in(Vin).wav)** - The raw, unprocessed guitar track.
-* 🎛️ **[Output Audio: filter_out.wav](filter_out(Vout).wav)** - The simulated output, demonstrating the dynamic filter sweep.
+* 🎸 **[Input Audio: filter_in(Vin).wav](filter_in(Vin).wav)** - The raw, unprocessed guitar track.
+* 🎛️ **[Output Audio: filter_out(Vout).wav](filter_out(Vout).wav)** - The simulated output, demonstrating the dynamic filter sweep.
 
 ---
 
